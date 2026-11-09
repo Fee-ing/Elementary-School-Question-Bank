@@ -1,0 +1,2613 @@
+[
+ {
+  "id": "question-bank_00066",
+  "source": "thl529/question-bank",
+  "source_file": "一年级英语上册选择题题库.json",
+  "grade": "一年级",
+  "subject": "英语",
+  "volume": "上",
+  "chapter": "日常问候语",
+  "topic": "日常问候语",
+  "type": "选择题",
+  "difficulty": "基础",
+  "difficulty_weight": 0.3,
+  "difficulty_raw": "基础",
+  "question": "早上见到老师，你应该说：（  ）",
+  "options": [
+   "Good morning!",
+   "Good afternoon!",
+   "Good evening!"
+  ],
+  "answer": "Good morning!",
+  "explanation": "早上见面时用 Good morning（早上好）来问候。afternoon 是下午，evening 是晚上。",
+  "knowledge_points": [
+   "问候语",
+   "Good morning"
+  ]
+ },
+ {
+  "id": "question-bank_00067",
+  "source": "thl529/question-bank",
+  "source_file": "一年级英语上册选择题题库.json",
+  "grade": "一年级",
+  "subject": "英语",
+  "volume": "上",
+  "chapter": "日常问候语",
+  "topic": "日常问候语",
+  "type": "选择题",
+  "difficulty": "基础",
+  "difficulty_weight": 0.3,
+  "difficulty_raw": "基础",
+  "question": "下午见到同学，你应该说：（  ）",
+  "options": [
+   "Good morning!",
+   "Good afternoon!",
+   "Goodbye!"
+  ],
+  "answer": "Good afternoon!",
+  "explanation": "下午见面时用 Good afternoon（下午好）来问候。",
+  "knowledge_points": [
+   "问候语",
+   "Good afternoon"
+  ]
+ },
+ {
+  "id": "question-bank_00068",
+  "source": "thl529/question-bank",
+  "source_file": "一年级英语上册选择题题库.json",
+  "grade": "一年级",
+  "subject": "英语",
+  "volume": "上",
+  "chapter": "日常问候语",
+  "topic": "日常问候语",
+  "type": "选择题",
+  "difficulty": "基础",
+  "difficulty_weight": 0.3,
+  "difficulty_raw": "基础",
+  "question": "别人问你 \"How are you?\"，你应该回答：（  ）",
+  "options": [
+   "I'm five.",
+   "I'm fine, thank you.",
+   "My name is Tom."
+  ],
+  "answer": "I'm fine, thank you.",
+  "explanation": "How are you? 是问\"你好吗？\"，回答用 I'm fine, thank you.（我很好，谢谢。）",
+  "knowledge_points": [
+   "问候语",
+   "How are you"
+  ]
+ },
+ {
+  "id": "question-bank_00069",
+  "source": "thl529/question-bank",
+  "source_file": "一年级英语上册选择题题库.json",
+  "grade": "一年级",
+  "subject": "英语",
+  "volume": "上",
+  "chapter": "日常问候语",
+  "topic": "日常问候语",
+  "type": "选择题",
+  "difficulty": "基础",
+  "difficulty_weight": 0.3,
+  "difficulty_raw": "基础",
+  "question": "和朋友告别时，你应该说：（  ）",
+  "options": [
+   "Hello!",
+   "Thank you!",
+   "Goodbye!"
+  ],
+  "answer": "Goodbye!",
+  "explanation": "告别时用 Goodbye（再见）。Hello 是见面打招呼，Thank you 是谢谢。",
+  "knowledge_points": [
+   "问候语",
+   "Goodbye"
+  ]
+ },
+ {
+  "id": "question-bank_00070",
+  "source": "thl529/question-bank",
+  "source_file": "一年级英语上册选择题题库.json",
+  "grade": "一年级",
+  "subject": "英语",
+  "volume": "上",
+  "chapter": "字母认识",
+  "topic": "字母认识",
+  "type": "选择题",
+  "difficulty": "基础",
+  "difficulty_weight": 0.3,
+  "difficulty_raw": "基础",
+  "question": "英语字母表中一共有（  ）个字母。",
+  "options": [
+   "24",
+   "26",
+   "28"
+  ],
+  "answer": "26",
+  "explanation": "英语字母表一共有26个字母，从A到Z。",
+  "knowledge_points": [
+   "字母表",
+   "字母总数"
+  ]
+ },
+ {
+  "id": "question-bank_00071",
+  "source": "thl529/question-bank",
+  "source_file": "一年级英语上册选择题题库.json",
+  "grade": "一年级",
+  "subject": "英语",
+  "volume": "上",
+  "chapter": "字母认识",
+  "topic": "字母认识",
+  "type": "选择题",
+  "difficulty": "基础",
+  "difficulty_weight": 0.3,
+  "difficulty_raw": "基础",
+  "question": "字母A的小写形式是（  ）。",
+  "options": [
+   "a",
+   "b",
+   "d"
+  ],
+  "answer": "a",
+  "explanation": "大写字母A对应的小写形式是a。",
+  "knowledge_points": [
+   "大小写字母",
+   "字母A"
+  ]
+ },
+ {
+  "id": "question-bank_00072",
+  "source": "thl529/question-bank",
+  "source_file": "一年级英语上册选择题题库.json",
+  "grade": "一年级",
+  "subject": "英语",
+  "volume": "上",
+  "chapter": "字母认识",
+  "topic": "字母认识",
+  "type": "选择题",
+  "difficulty": "基础",
+  "difficulty_weight": 0.3,
+  "difficulty_raw": "基础",
+  "question": "下面哪个是字母B的小写？（  ）",
+  "options": [
+   "d",
+   "b",
+   "p"
+  ],
+  "answer": "b",
+  "explanation": "大写B的小写是b。注意区分b、d和p，它们形状相似但方向不同。",
+  "knowledge_points": [
+   "大小写字母",
+   "字母B"
+  ]
+ },
+ {
+  "id": "question-bank_00073",
+  "source": "thl529/question-bank",
+  "source_file": "一年级英语上册选择题题库.json",
+  "grade": "一年级",
+  "subject": "英语",
+  "volume": "上",
+  "chapter": "字母认识",
+  "topic": "字母认识",
+  "type": "选择题",
+  "difficulty": "基础",
+  "difficulty_weight": 0.3,
+  "difficulty_raw": "基础",
+  "question": "字母C后面的字母是（  ）。",
+  "options": [
+   "B",
+   "E",
+   "D"
+  ],
+  "answer": "D",
+  "explanation": "字母表顺序是 A、B、C、D、E……，C后面是D。",
+  "knowledge_points": [
+   "字母顺序"
+  ]
+ },
+ {
+  "id": "question-bank_00074",
+  "source": "thl529/question-bank",
+  "source_file": "一年级英语上册选择题题库.json",
+  "grade": "一年级",
+  "subject": "英语",
+  "volume": "上",
+  "chapter": "字母认识",
+  "topic": "字母认识",
+  "type": "选择题",
+  "difficulty": "基础",
+  "difficulty_weight": 0.3,
+  "difficulty_raw": "基础",
+  "question": "下面哪组字母是按顺序排列的？（  ）",
+  "options": [
+   "A B D C",
+   "A B C D",
+   "A C B D"
+  ],
+  "answer": "A B C D",
+  "explanation": "正确的字母表顺序是 A、B、C、D。",
+  "knowledge_points": [
+   "字母顺序"
+  ]
+ },
+ {
+  "id": "question-bank_00075",
+  "source": "thl529/question-bank",
+  "source_file": "一年级英语上册选择题题库.json",
+  "grade": "一年级",
+  "subject": "英语",
+  "volume": "上",
+  "chapter": "字母认识",
+  "topic": "字母认识",
+  "type": "选择题",
+  "difficulty": "基础",
+  "difficulty_weight": 0.3,
+  "difficulty_raw": "基础",
+  "question": "英语字母表的最后一个字母是（  ）。",
+  "options": [
+   "X",
+   "Y",
+   "Z"
+  ],
+  "answer": "Z",
+  "explanation": "英语字母表从A开始，到Z结束，Z是最后一个字母。",
+  "knowledge_points": [
+   "字母表",
+   "字母Z"
+  ]
+ },
+ {
+  "id": "question-bank_00076",
+  "source": "thl529/question-bank",
+  "source_file": "一年级英语上册选择题题库.json",
+  "grade": "一年级",
+  "subject": "英语",
+  "volume": "上",
+  "chapter": "字母认识",
+  "topic": "字母认识",
+  "type": "选择题",
+  "difficulty": "中等",
+  "difficulty_weight": 0.55,
+  "difficulty_raw": "中等",
+  "question": "下列字母中，哪一个既有\"圆弧\"又有\"竖线\"？（  ）",
+  "options": [
+   "O",
+   "D",
+   "L"
+  ],
+  "answer": "D",
+  "explanation": "D由一条竖线和一个圆弧组成；O只有圆弧；L只有直线。",
+  "knowledge_points": [
+   "字母形状辨认"
+  ]
+ },
+ {
+  "id": "question-bank_00077",
+  "source": "thl529/question-bank",
+  "source_file": "一年级英语上册选择题题库.json",
+  "grade": "一年级",
+  "subject": "英语",
+  "volume": "上",
+  "chapter": "数字",
+  "topic": "数字",
+  "type": "选择题",
+  "difficulty": "中等",
+  "difficulty_weight": 0.55,
+  "difficulty_raw": "中等",
+  "question": "How many eyes do you have? （  ）",
+  "options": [
+   "One.",
+   "Two.",
+   "Three."
+  ],
+  "answer": "Two.",
+  "explanation": "问\"你有几只眼睛？\"，人有两只眼睛，所以回答 Two。",
+  "knowledge_points": [
+   "数字单词",
+   "How many",
+   "身体部位"
+  ]
+ },
+ {
+  "id": "question-bank_00078",
+  "source": "thl529/question-bank",
+  "source_file": "一年级英语上册选择题题库.json",
+  "grade": "一年级",
+  "subject": "英语",
+  "volume": "上",
+  "chapter": "身体部位",
+  "topic": "身体部位",
+  "type": "选择题",
+  "difficulty": "基础",
+  "difficulty_weight": 0.3,
+  "difficulty_raw": "基础",
+  "question": "eye 是身体的哪个部位？（  ）",
+  "options": [
+   "耳朵",
+   "鼻子",
+   "眼睛"
+  ],
+  "answer": "眼睛",
+  "explanation": "eye 是\"眼睛\"的英语。ear 是耳朵，nose 是鼻子。",
+  "knowledge_points": [
+   "身体部位",
+   "eye"
+  ]
+ },
+ {
+  "id": "question-bank_00079",
+  "source": "thl529/question-bank",
+  "source_file": "一年级英语上册选择题题库.json",
+  "grade": "一年级",
+  "subject": "英语",
+  "volume": "上",
+  "chapter": "身体部位",
+  "topic": "身体部位",
+  "type": "选择题",
+  "difficulty": "基础",
+  "difficulty_weight": 0.3,
+  "difficulty_raw": "基础",
+  "question": "\"嘴巴\"用英语怎么说？（  ）",
+  "options": [
+   "mouth",
+   "nose",
+   "hand"
+  ],
+  "answer": "mouth",
+  "explanation": "嘴巴的英语是 mouth。nose 是鼻子，hand 是手。",
+  "knowledge_points": [
+   "身体部位",
+   "mouth"
+  ]
+ },
+ {
+  "id": "question-bank_00080",
+  "source": "thl529/question-bank",
+  "source_file": "一年级英语上册选择题题库.json",
+  "grade": "一年级",
+  "subject": "英语",
+  "volume": "上",
+  "chapter": "身体部位",
+  "topic": "身体部位",
+  "type": "选择题",
+  "difficulty": "基础",
+  "difficulty_weight": 0.3,
+  "difficulty_raw": "基础",
+  "question": "ear 是身体的哪个部位？（  ）",
+  "options": [
+   "手",
+   "耳朵",
+   "脚"
+  ],
+  "answer": "耳朵",
+  "explanation": "ear 是\"耳朵\"的英语。hand 是手，foot 是脚。",
+  "knowledge_points": [
+   "身体部位",
+   "ear"
+  ]
+ },
+ {
+  "id": "question-bank_00081",
+  "source": "thl529/question-bank",
+  "source_file": "一年级英语上册选择题题库.json",
+  "grade": "一年级",
+  "subject": "英语",
+  "volume": "上",
+  "chapter": "身体部位",
+  "topic": "身体部位",
+  "type": "选择题",
+  "difficulty": "基础",
+  "difficulty_weight": 0.3,
+  "difficulty_raw": "基础",
+  "question": "nose 是身体的哪个部位？（  ）",
+  "options": [
+   "鼻子",
+   "嘴巴",
+   "头"
+  ],
+  "answer": "鼻子",
+  "explanation": "nose 是\"鼻子\"的英语。mouth 是嘴巴，head 是头。",
+  "knowledge_points": [
+   "身体部位",
+   "nose"
+  ]
+ },
+ {
+  "id": "question-bank_00082",
+  "source": "thl529/question-bank",
+  "source_file": "一年级英语上册选择题题库.json",
+  "grade": "一年级",
+  "subject": "英语",
+  "volume": "上",
+  "chapter": "身体部位",
+  "topic": "身体部位",
+  "type": "选择题",
+  "difficulty": "中等",
+  "difficulty_weight": 0.55,
+  "difficulty_raw": "中等",
+  "question": "Touch your ____. （摸摸你的头。）（  ）",
+  "options": [
+   "hand",
+   "head",
+   "foot"
+  ],
+  "answer": "head",
+  "explanation": "head 是\"头\"的意思。Touch your head 意思是\"摸摸你的头\"。",
+  "knowledge_points": [
+   "身体部位",
+   "head",
+   "指令"
+  ]
+ },
+ {
+  "id": "question-bank_00083",
+  "source": "thl529/question-bank",
+  "source_file": "一年级英语上册选择题题库.json",
+  "grade": "一年级",
+  "subject": "英语",
+  "volume": "上",
+  "chapter": "身体部位",
+  "topic": "身体部位",
+  "type": "选择题",
+  "difficulty": "基础",
+  "difficulty_weight": 0.3,
+  "difficulty_raw": "基础",
+  "question": "\"手\"用英语怎么说？（  ）",
+  "options": [
+   "arm",
+   "hand",
+   "leg"
+  ],
+  "answer": "hand",
+  "explanation": "手的英语是 hand。arm 是手臂，leg 是腿。",
+  "knowledge_points": [
+   "身体部位",
+   "hand"
+  ]
+ },
+ {
+  "id": "question-bank_00084",
+  "source": "thl529/question-bank",
+  "source_file": "一年级英语上册选择题题库.json",
+  "grade": "一年级",
+  "subject": "英语",
+  "volume": "上",
+  "chapter": "文具用品",
+  "topic": "文具用品",
+  "type": "选择题",
+  "difficulty": "基础",
+  "difficulty_weight": 0.3,
+  "difficulty_raw": "基础",
+  "question": "pen 是什么文具？（  ）",
+  "options": [
+   "铅笔",
+   "钢笔",
+   "尺子"
+  ],
+  "answer": "钢笔",
+  "explanation": "pen 是\"钢笔\"（笔）的英语。pencil 是铅笔，ruler 是尺子。",
+  "knowledge_points": [
+   "文具用品",
+   "pen"
+  ]
+ },
+ {
+  "id": "question-bank_00085",
+  "source": "thl529/question-bank",
+  "source_file": "一年级英语上册选择题题库.json",
+  "grade": "一年级",
+  "subject": "英语",
+  "volume": "上",
+  "chapter": "文具用品",
+  "topic": "文具用品",
+  "type": "选择题",
+  "difficulty": "基础",
+  "difficulty_weight": 0.3,
+  "difficulty_raw": "基础",
+  "question": "\"铅笔\"用英语怎么说？（  ）",
+  "options": [
+   "pen",
+   "pencil",
+   "eraser"
+  ],
+  "answer": "pencil",
+  "explanation": "铅笔的英语是 pencil。pen 是钢笔，eraser 是橡皮擦。",
+  "knowledge_points": [
+   "文具用品",
+   "pencil"
+  ]
+ },
+ {
+  "id": "question-bank_00086",
+  "source": "thl529/question-bank",
+  "source_file": "一年级英语上册选择题题库.json",
+  "grade": "一年级",
+  "subject": "英语",
+  "volume": "上",
+  "chapter": "文具用品",
+  "topic": "文具用品",
+  "type": "选择题",
+  "difficulty": "基础",
+  "difficulty_weight": 0.3,
+  "difficulty_raw": "基础",
+  "question": "book 是什么意思？（  ）",
+  "options": [
+   "书包",
+   "书",
+   "本子"
+  ],
+  "answer": "书",
+  "explanation": "book 是\"书\"的英语。bag 是书包。",
+  "knowledge_points": [
+   "文具用品",
+   "book"
+  ]
+ },
+ {
+  "id": "question-bank_00087",
+  "source": "thl529/question-bank",
+  "source_file": "一年级英语上册选择题题库.json",
+  "grade": "一年级",
+  "subject": "英语",
+  "volume": "上",
+  "chapter": "文具用品",
+  "topic": "文具用品",
+  "type": "选择题",
+  "difficulty": "基础",
+  "difficulty_weight": 0.3,
+  "difficulty_raw": "基础",
+  "question": "ruler 是什么文具？（  ）",
+  "options": [
+   "橡皮",
+   "尺子",
+   "书包"
+  ],
+  "answer": "尺子",
+  "explanation": "ruler 是\"尺子\"的英语。eraser 是橡皮，bag/schoolbag 是书包。",
+  "knowledge_points": [
+   "文具用品",
+   "ruler"
+  ]
+ },
+ {
+  "id": "question-bank_00088",
+  "source": "thl529/question-bank",
+  "source_file": "一年级英语上册选择题题库.json",
+  "grade": "一年级",
+  "subject": "英语",
+  "volume": "上",
+  "chapter": "文具用品",
+  "topic": "文具用品",
+  "type": "选择题",
+  "difficulty": "中等",
+  "difficulty_weight": 0.55,
+  "difficulty_raw": "中等",
+  "question": "I write with a ____. （我用____写字。）（  ）",
+  "options": [
+   "ruler",
+   "eraser",
+   "pencil"
+  ],
+  "answer": "pencil",
+  "explanation": "写字用的是 pencil（铅笔）或 pen（笔）。ruler 是尺子，eraser 是橡皮擦。",
+  "knowledge_points": [
+   "文具用品",
+   "pencil",
+   "功能"
+  ]
+ },
+ {
+  "id": "question-bank_00089",
+  "source": "thl529/question-bank",
+  "source_file": "一年级英语上册选择题题库.json",
+  "grade": "一年级",
+  "subject": "英语",
+  "volume": "上",
+  "chapter": "简单句型",
+  "topic": "简单句型",
+  "type": "选择题",
+  "difficulty": "基础",
+  "difficulty_weight": 0.3,
+  "difficulty_raw": "基础",
+  "question": "—What's this? —It's ____ apple.（  ）",
+  "options": [
+   "a",
+   "an",
+   "the"
+  ],
+  "answer": "an",
+  "explanation": "apple 以元音字母 a 开头，前面要用 an，不用 a。",
+  "knowledge_points": [
+   "冠词",
+   "a/an用法"
+  ]
+ },
+ {
+  "id": "question-bank_00090",
+  "source": "thl529/question-bank",
+  "source_file": "一年级英语上册选择题题库.json",
+  "grade": "一年级",
+  "subject": "英语",
+  "volume": "上",
+  "chapter": "简单句型",
+  "topic": "简单句型",
+  "type": "选择题",
+  "difficulty": "基础",
+  "difficulty_weight": 0.3,
+  "difficulty_raw": "基础",
+  "question": "This is ____ book.（  ）",
+  "options": [
+   "an",
+   "a",
+   "/"
+  ],
+  "answer": "a",
+  "explanation": "book 以辅音字母 b 开头，前面用 a，不用 an。",
+  "knowledge_points": [
+   "冠词",
+   "a/an用法"
+  ]
+ },
+ {
+  "id": "question-bank_00091",
+  "source": "thl529/question-bank",
+  "source_file": "一年级英语上册选择题题库.json",
+  "grade": "一年级",
+  "subject": "英语",
+  "volume": "上",
+  "chapter": "日常问候语",
+  "topic": "日常问候语",
+  "type": "选择题",
+  "difficulty": "中等",
+  "difficulty_weight": 0.55,
+  "difficulty_raw": "中等",
+  "question": "晚上睡觉前，你应该对妈妈说：（  ）",
+  "options": [
+   "Good morning!",
+   "Good night!",
+   "Good afternoon!"
+  ],
+  "answer": "Good night!",
+  "explanation": "睡觉前说 Good night!（晚安！）。Good morning 是早上好，Good afternoon 是下午好。",
+  "knowledge_points": [
+   "问候语",
+   "Good night"
+  ]
+ },
+ {
+  "id": "question-bank_00092",
+  "source": "thl529/question-bank",
+  "source_file": "一年级英语上册选择题题库.json",
+  "grade": "一年级",
+  "subject": "英语",
+  "volume": "上",
+  "chapter": "日常问候语",
+  "topic": "日常问候语",
+  "type": "选择题",
+  "difficulty": "基础",
+  "difficulty_weight": 0.3,
+  "difficulty_raw": "基础",
+  "question": "别人对你说 \"Thank you!\"，你应该回答：（  ）",
+  "options": [
+   "I'm sorry.",
+   "You're welcome.",
+   "Goodbye."
+  ],
+  "answer": "You're welcome.",
+  "explanation": "别人说 Thank you（谢谢），应该回答 You're welcome（不客气）。",
+  "knowledge_points": [
+   "礼貌用语",
+   "You're welcome"
+  ]
+ },
+ {
+  "id": "question-bank_00093",
+  "source": "thl529/question-bank",
+  "source_file": "一年级英语上册选择题题库.json",
+  "grade": "一年级",
+  "subject": "英语",
+  "volume": "上",
+  "chapter": "日常问候语",
+  "topic": "日常问候语",
+  "type": "选择题",
+  "difficulty": "基础",
+  "difficulty_weight": 0.3,
+  "difficulty_raw": "基础",
+  "question": "别人问你 \"What's your name?\"，你应该回答：（  ）",
+  "options": [
+   "I'm fine.",
+   "My name is Lily.",
+   "I'm six."
+  ],
+  "answer": "My name is Lily.",
+  "explanation": "What's your name? 是问\"你叫什么名字？\"，回答用 My name is...（我的名字是……）。",
+  "knowledge_points": [
+   "自我介绍",
+   "What's your name"
+  ]
+ },
+ {
+  "id": "question-bank_00094",
+  "source": "thl529/question-bank",
+  "source_file": "一年级英语上册选择题题库.json",
+  "grade": "一年级",
+  "subject": "英语",
+  "volume": "上",
+  "chapter": "颜色",
+  "topic": "颜色",
+  "type": "选择题",
+  "difficulty": "基础",
+  "difficulty_weight": 0.3,
+  "difficulty_raw": "基础",
+  "question": "red 是什么颜色？（  ）",
+  "options": [
+   "蓝色",
+   "红色",
+   "绿色"
+  ],
+  "answer": "红色",
+  "explanation": "red 的意思是\"红色\"。blue 是蓝色，green 是绿色。",
+  "knowledge_points": [
+   "颜色单词",
+   "red"
+  ]
+ },
+ {
+  "id": "question-bank_00095",
+  "source": "thl529/question-bank",
+  "source_file": "一年级英语上册选择题题库.json",
+  "grade": "一年级",
+  "subject": "英语",
+  "volume": "上",
+  "chapter": "颜色",
+  "topic": "颜色",
+  "type": "选择题",
+  "difficulty": "基础",
+  "difficulty_weight": 0.3,
+  "difficulty_raw": "基础",
+  "question": "\"蓝色\"用英语怎么说？（  ）",
+  "options": [
+   "green",
+   "yellow",
+   "blue"
+  ],
+  "answer": "blue",
+  "explanation": "蓝色的英语是 blue。green 是绿色，yellow 是黄色。",
+  "knowledge_points": [
+   "颜色单词",
+   "blue"
+  ]
+ },
+ {
+  "id": "question-bank_00096",
+  "source": "thl529/question-bank",
+  "source_file": "一年级英语上册选择题题库.json",
+  "grade": "一年级",
+  "subject": "英语",
+  "volume": "上",
+  "chapter": "颜色",
+  "topic": "颜色",
+  "type": "选择题",
+  "difficulty": "基础",
+  "difficulty_weight": 0.3,
+  "difficulty_raw": "基础",
+  "question": "yellow 是什么颜色？（  ）",
+  "options": [
+   "黄色",
+   "白色",
+   "黑色"
+  ],
+  "answer": "黄色",
+  "explanation": "yellow 的意思是\"黄色\"。white 是白色，black 是黑色。",
+  "knowledge_points": [
+   "颜色单词",
+   "yellow"
+  ]
+ },
+ {
+  "id": "question-bank_00097",
+  "source": "thl529/question-bank",
+  "source_file": "一年级英语上册选择题题库.json",
+  "grade": "一年级",
+  "subject": "英语",
+  "volume": "上",
+  "chapter": "颜色",
+  "topic": "颜色",
+  "type": "选择题",
+  "difficulty": "基础",
+  "difficulty_weight": 0.3,
+  "difficulty_raw": "基础",
+  "question": "草地的颜色通常是 ____。（  ）",
+  "options": [
+   "red",
+   "green",
+   "black"
+  ],
+  "answer": "green",
+  "explanation": "草地的颜色是绿色，英语是 green。",
+  "knowledge_points": [
+   "颜色单词",
+   "green"
+  ]
+ },
+ {
+  "id": "question-bank_00098",
+  "source": "thl529/question-bank",
+  "source_file": "一年级英语上册选择题题库.json",
+  "grade": "一年级",
+  "subject": "英语",
+  "volume": "上",
+  "chapter": "颜色",
+  "topic": "颜色",
+  "type": "选择题",
+  "difficulty": "中等",
+  "difficulty_weight": 0.55,
+  "difficulty_raw": "中等",
+  "question": "天空的颜色通常是（  ）。",
+  "options": [
+   "blue",
+   "red",
+   "pink"
+  ],
+  "answer": "blue",
+  "explanation": "天空的颜色通常是蓝色，英语是 blue。",
+  "knowledge_points": [
+   "颜色单词",
+   "blue",
+   "生活常识"
+  ]
+ },
+ {
+  "id": "question-bank_00099",
+  "source": "thl529/question-bank",
+  "source_file": "一年级英语上册选择题题库.json",
+  "grade": "一年级",
+  "subject": "英语",
+  "volume": "上",
+  "chapter": "数字",
+  "topic": "数字",
+  "type": "选择题",
+  "difficulty": "基础",
+  "difficulty_weight": 0.3,
+  "difficulty_raw": "基础",
+  "question": "one 表示数字几？（  ）",
+  "options": [
+   "2",
+   "1",
+   "3"
+  ],
+  "answer": "1",
+  "explanation": "one 是数字1的英语。two 是2，three 是3。",
+  "knowledge_points": [
+   "数字单词",
+   "one"
+  ]
+ },
+ {
+  "id": "question-bank_00100",
+  "source": "thl529/question-bank",
+  "source_file": "一年级英语上册选择题题库.json",
+  "grade": "一年级",
+  "subject": "英语",
+  "volume": "上",
+  "chapter": "数字",
+  "topic": "数字",
+  "type": "选择题",
+  "difficulty": "基础",
+  "difficulty_weight": 0.3,
+  "difficulty_raw": "基础",
+  "question": "数字5用英语怎么说？（  ）",
+  "options": [
+   "four",
+   "five",
+   "six"
+  ],
+  "answer": "five",
+  "explanation": "数字5的英语是 five。four 是4，six 是6。",
+  "knowledge_points": [
+   "数字单词",
+   "five"
+  ]
+ },
+ {
+  "id": "question-bank_00101",
+  "source": "thl529/question-bank",
+  "source_file": "一年级英语下册选择题题库.json",
+  "grade": "一年级",
+  "subject": "英语",
+  "volume": "下",
+  "chapter": "颜色",
+  "topic": "颜色",
+  "type": "选择题",
+  "difficulty": "基础",
+  "difficulty_weight": 0.3,
+  "difficulty_raw": "基础",
+  "question": "orange 除了表示\"橙色\"，还可以表示什么？（  ）",
+  "options": [
+   "苹果",
+   "橙子",
+   "香蕉"
+  ],
+  "answer": "橙子",
+  "explanation": "orange 既可以表示\"橙色\"，也可以表示\"橙子\"这种水果。",
+  "knowledge_points": [
+   "颜色单词",
+   "一词多义",
+   "orange"
+  ]
+ },
+ {
+  "id": "question-bank_00102",
+  "source": "thl529/question-bank",
+  "source_file": "一年级英语下册选择题题库.json",
+  "grade": "一年级",
+  "subject": "英语",
+  "volume": "下",
+  "chapter": "动物",
+  "topic": "动物",
+  "type": "选择题",
+  "difficulty": "基础",
+  "difficulty_weight": 0.3,
+  "difficulty_raw": "基础",
+  "question": "cat 是什么动物？（  ）",
+  "options": [
+   "狗",
+   "猫",
+   "鸟"
+  ],
+  "answer": "猫",
+  "explanation": "cat 是\"猫\"的英语。dog 是狗，bird 是鸟。",
+  "knowledge_points": [
+   "动物单词",
+   "cat"
+  ]
+ },
+ {
+  "id": "question-bank_00103",
+  "source": "thl529/question-bank",
+  "source_file": "一年级英语下册选择题题库.json",
+  "grade": "一年级",
+  "subject": "英语",
+  "volume": "下",
+  "chapter": "动物",
+  "topic": "动物",
+  "type": "选择题",
+  "difficulty": "基础",
+  "difficulty_weight": 0.3,
+  "difficulty_raw": "基础",
+  "question": "\"狗\"用英语怎么说？（  ）",
+  "options": [
+   "duck",
+   "pig",
+   "dog"
+  ],
+  "answer": "dog",
+  "explanation": "\"狗\"的英语是 dog。duck 是鸭子，pig 是猪。",
+  "knowledge_points": [
+   "动物单词",
+   "dog"
+  ]
+ },
+ {
+  "id": "question-bank_00104",
+  "source": "thl529/question-bank",
+  "source_file": "一年级英语下册选择题题库.json",
+  "grade": "一年级",
+  "subject": "英语",
+  "volume": "下",
+  "chapter": "动物",
+  "topic": "动物",
+  "type": "选择题",
+  "difficulty": "基础",
+  "difficulty_weight": 0.3,
+  "difficulty_raw": "基础",
+  "question": "fish 是什么动物？（  ）",
+  "options": [
+   "鱼",
+   "鸡",
+   "兔子"
+  ],
+  "answer": "鱼",
+  "explanation": "fish 是\"鱼\"的英语。chicken 是鸡，rabbit 是兔子。",
+  "knowledge_points": [
+   "动物单词",
+   "fish"
+  ]
+ },
+ {
+  "id": "question-bank_00105",
+  "source": "thl529/question-bank",
+  "source_file": "一年级英语下册选择题题库.json",
+  "grade": "一年级",
+  "subject": "英语",
+  "volume": "下",
+  "chapter": "动物",
+  "topic": "动物",
+  "type": "选择题",
+  "difficulty": "基础",
+  "difficulty_weight": 0.3,
+  "difficulty_raw": "基础",
+  "question": "bird 会（  ）。",
+  "options": [
+   "swim（游泳）",
+   "fly（飞）",
+   "run（跑）"
+  ],
+  "answer": "fly（飞）",
+  "explanation": "bird 是鸟，鸟的特点是会 fly（飞）。",
+  "knowledge_points": [
+   "动物单词",
+   "bird",
+   "动物特征"
+  ]
+ },
+ {
+  "id": "question-bank_00106",
+  "source": "thl529/question-bank",
+  "source_file": "一年级英语下册选择题题库.json",
+  "grade": "一年级",
+  "subject": "英语",
+  "volume": "下",
+  "chapter": "动物",
+  "topic": "动物",
+  "type": "选择题",
+  "difficulty": "基础",
+  "difficulty_weight": 0.3,
+  "difficulty_raw": "基础",
+  "question": "\"兔子\"用英语怎么说？（  ）",
+  "options": [
+   "monkey",
+   "rabbit",
+   "mouse"
+  ],
+  "answer": "rabbit",
+  "explanation": "兔子的英语是 rabbit。monkey 是猴子，mouse 是老鼠。",
+  "knowledge_points": [
+   "动物单词",
+   "rabbit"
+  ]
+ },
+ {
+  "id": "question-bank_00107",
+  "source": "thl529/question-bank",
+  "source_file": "一年级英语下册选择题题库.json",
+  "grade": "一年级",
+  "subject": "英语",
+  "volume": "下",
+  "chapter": "动物",
+  "topic": "动物",
+  "type": "选择题",
+  "difficulty": "基础",
+  "difficulty_weight": 0.3,
+  "difficulty_raw": "基础",
+  "question": "duck 是什么动物？（  ）",
+  "options": [
+   "鸭子",
+   "鹅",
+   "鸡"
+  ],
+  "answer": "鸭子",
+  "explanation": "duck 是\"鸭子\"的英语。goose 是鹅，chicken 是鸡。",
+  "knowledge_points": [
+   "动物单词",
+   "duck"
+  ]
+ },
+ {
+  "id": "question-bank_00108",
+  "source": "thl529/question-bank",
+  "source_file": "一年级英语下册选择题题库.json",
+  "grade": "一年级",
+  "subject": "英语",
+  "volume": "下",
+  "chapter": "动物",
+  "topic": "动物",
+  "type": "选择题",
+  "difficulty": "中等",
+  "difficulty_weight": 0.55,
+  "difficulty_raw": "中等",
+  "question": "I have a long nose. I'm big. I'm an ____. （  ）",
+  "options": [
+   "cat",
+   "elephant",
+   "dog"
+  ],
+  "answer": "elephant",
+  "explanation": "长鼻子、体型大的动物是大象，英语是 elephant。",
+  "knowledge_points": [
+   "动物单词",
+   "elephant",
+   "动物特征"
+  ]
+ },
+ {
+  "id": "question-bank_00109",
+  "source": "thl529/question-bank",
+  "source_file": "一年级英语下册选择题题库.json",
+  "grade": "一年级",
+  "subject": "英语",
+  "volume": "下",
+  "chapter": "水果",
+  "topic": "水果",
+  "type": "选择题",
+  "difficulty": "基础",
+  "difficulty_weight": 0.3,
+  "difficulty_raw": "基础",
+  "question": "apple 是什么水果？（  ）",
+  "options": [
+   "香蕉",
+   "苹果",
+   "葡萄"
+  ],
+  "answer": "苹果",
+  "explanation": "apple 是\"苹果\"的英语。banana 是香蕉，grape 是葡萄。",
+  "knowledge_points": [
+   "水果单词",
+   "apple"
+  ]
+ },
+ {
+  "id": "question-bank_00110",
+  "source": "thl529/question-bank",
+  "source_file": "一年级英语下册选择题题库.json",
+  "grade": "一年级",
+  "subject": "英语",
+  "volume": "下",
+  "chapter": "水果",
+  "topic": "水果",
+  "type": "选择题",
+  "difficulty": "基础",
+  "difficulty_weight": 0.3,
+  "difficulty_raw": "基础",
+  "question": "\"香蕉\"用英语怎么说？（  ）",
+  "options": [
+   "banana",
+   "pear",
+   "peach"
+  ],
+  "answer": "banana",
+  "explanation": "香蕉的英语是 banana。pear 是梨，peach 是桃子。",
+  "knowledge_points": [
+   "水果单词",
+   "banana"
+  ]
+ },
+ {
+  "id": "question-bank_00111",
+  "source": "thl529/question-bank",
+  "source_file": "一年级英语下册选择题题库.json",
+  "grade": "一年级",
+  "subject": "英语",
+  "volume": "下",
+  "chapter": "水果",
+  "topic": "水果",
+  "type": "选择题",
+  "difficulty": "基础",
+  "difficulty_weight": 0.3,
+  "difficulty_raw": "基础",
+  "question": "I like ____. 它是黄色的，弯弯的。（  ）",
+  "options": [
+   "apples",
+   "bananas",
+   "oranges"
+  ],
+  "answer": "bananas",
+  "explanation": "黄色的、弯弯的水果是香蕉，英语是 banana/bananas。",
+  "knowledge_points": [
+   "水果单词",
+   "banana",
+   "水果特征"
+  ]
+ },
+ {
+  "id": "question-bank_00112",
+  "source": "thl529/question-bank",
+  "source_file": "一年级英语下册选择题题库.json",
+  "grade": "一年级",
+  "subject": "英语",
+  "volume": "下",
+  "chapter": "水果",
+  "topic": "水果",
+  "type": "选择题",
+  "difficulty": "基础",
+  "difficulty_weight": 0.3,
+  "difficulty_raw": "基础",
+  "question": "pear 是什么水果？（  ）",
+  "options": [
+   "桃子",
+   "梨",
+   "草莓"
+  ],
+  "answer": "梨",
+  "explanation": "pear 是\"梨\"的英语。peach 是桃子，strawberry 是草莓。",
+  "knowledge_points": [
+   "水果单词",
+   "pear"
+  ]
+ },
+ {
+  "id": "question-bank_00113",
+  "source": "thl529/question-bank",
+  "source_file": "一年级英语下册选择题题库.json",
+  "grade": "一年级",
+  "subject": "英语",
+  "volume": "下",
+  "chapter": "水果",
+  "topic": "水果",
+  "type": "选择题",
+  "difficulty": "中等",
+  "difficulty_weight": 0.55,
+  "difficulty_raw": "中等",
+  "question": "Do you like grapes? 这里 grapes 是指什么？（  ）",
+  "options": [
+   "西瓜",
+   "葡萄",
+   "橙子"
+  ],
+  "answer": "葡萄",
+  "explanation": "grapes 是\"葡萄\"的英语（复数形式）。watermelon 是西瓜，orange 是橙子。",
+  "knowledge_points": [
+   "水果单词",
+   "grapes"
+  ]
+ },
+ {
+  "id": "question-bank_00114",
+  "source": "thl529/question-bank",
+  "source_file": "一年级英语下册选择题题库.json",
+  "grade": "一年级",
+  "subject": "英语",
+  "volume": "下",
+  "chapter": "家庭成员",
+  "topic": "家庭成员",
+  "type": "选择题",
+  "difficulty": "基础",
+  "difficulty_weight": 0.3,
+  "difficulty_raw": "基础",
+  "question": "mother 是什么意思？（  ）",
+  "options": [
+   "爸爸",
+   "妈妈",
+   "姐姐"
+  ],
+  "answer": "妈妈",
+  "explanation": "mother 是\"妈妈\"的英语。father 是爸爸，sister 是姐姐/妹妹。",
+  "knowledge_points": [
+   "家庭成员",
+   "mother"
+  ]
+ },
+ {
+  "id": "question-bank_00115",
+  "source": "thl529/question-bank",
+  "source_file": "一年级英语下册选择题题库.json",
+  "grade": "一年级",
+  "subject": "英语",
+  "volume": "下",
+  "chapter": "家庭成员",
+  "topic": "家庭成员",
+  "type": "选择题",
+  "difficulty": "基础",
+  "difficulty_weight": 0.3,
+  "difficulty_raw": "基础",
+  "question": "\"爸爸\"用英语怎么说？（  ）",
+  "options": [
+   "brother",
+   "father",
+   "uncle"
+  ],
+  "answer": "father",
+  "explanation": "爸爸的英语是 father（也可以说 dad）。brother 是兄弟，uncle 是叔叔/伯伯。",
+  "knowledge_points": [
+   "家庭成员",
+   "father"
+  ]
+ },
+ {
+  "id": "question-bank_00116",
+  "source": "thl529/question-bank",
+  "source_file": "一年级英语下册选择题题库.json",
+  "grade": "一年级",
+  "subject": "英语",
+  "volume": "下",
+  "chapter": "家庭成员",
+  "topic": "家庭成员",
+  "type": "选择题",
+  "difficulty": "基础",
+  "difficulty_weight": 0.3,
+  "difficulty_raw": "基础",
+  "question": "sister 是什么意思？（  ）",
+  "options": [
+   "哥哥",
+   "姐姐/妹妹",
+   "阿姨"
+  ],
+  "answer": "姐姐/妹妹",
+  "explanation": "sister 是\"姐姐\"或\"妹妹\"的英语。brother 是哥哥/弟弟，aunt 是阿姨。",
+  "knowledge_points": [
+   "家庭成员",
+   "sister"
+  ]
+ },
+ {
+  "id": "question-bank_00117",
+  "source": "thl529/question-bank",
+  "source_file": "一年级英语下册选择题题库.json",
+  "grade": "一年级",
+  "subject": "英语",
+  "volume": "下",
+  "chapter": "家庭成员",
+  "topic": "家庭成员",
+  "type": "选择题",
+  "difficulty": "基础",
+  "difficulty_weight": 0.3,
+  "difficulty_raw": "基础",
+  "question": "grandma 是什么意思？（  ）",
+  "options": [
+   "奶奶/姥姥",
+   "妈妈",
+   "阿姨"
+  ],
+  "answer": "奶奶/姥姥",
+  "explanation": "grandma 是\"奶奶\"或\"姥姥\"的英语，是 grandmother 的口语形式。",
+  "knowledge_points": [
+   "家庭成员",
+   "grandma"
+  ]
+ },
+ {
+  "id": "question-bank_00118",
+  "source": "thl529/question-bank",
+  "source_file": "一年级英语下册选择题题库.json",
+  "grade": "一年级",
+  "subject": "英语",
+  "volume": "下",
+  "chapter": "家庭成员",
+  "topic": "家庭成员",
+  "type": "选择题",
+  "difficulty": "中等",
+  "difficulty_weight": 0.55,
+  "difficulty_raw": "中等",
+  "question": "This is my father's father. He is my ____. （  ）",
+  "options": [
+   "brother",
+   "grandpa",
+   "uncle"
+  ],
+  "answer": "grandpa",
+  "explanation": "爸爸的爸爸就是爷爷，英语是 grandpa（grandfather）。",
+  "knowledge_points": [
+   "家庭成员",
+   "grandpa",
+   "家庭关系"
+  ]
+ },
+ {
+  "id": "question-bank_00119",
+  "source": "thl529/question-bank",
+  "source_file": "一年级英语下册选择题题库.json",
+  "grade": "一年级",
+  "subject": "英语",
+  "volume": "下",
+  "chapter": "简单句型",
+  "topic": "简单句型",
+  "type": "选择题",
+  "difficulty": "基础",
+  "difficulty_weight": 0.3,
+  "difficulty_raw": "基础",
+  "question": "—Is it a cat? —Yes, ____ is.（  ）",
+  "options": [
+   "he",
+   "she",
+   "it"
+  ],
+  "answer": "it",
+  "explanation": "问句用 it 来指代物品或动物，回答也用 it。Yes, it is.",
+  "knowledge_points": [
+   "代词",
+   "it的用法"
+  ]
+ },
+ {
+  "id": "question-bank_00120",
+  "source": "thl529/question-bank",
+  "source_file": "一年级英语下册选择题题库.json",
+  "grade": "一年级",
+  "subject": "英语",
+  "volume": "下",
+  "chapter": "动物",
+  "topic": "动物",
+  "type": "选择题",
+  "difficulty": "中等",
+  "difficulty_weight": 0.55,
+  "difficulty_raw": "中等",
+  "question": "A monkey likes to eat ____. （  ）",
+  "options": [
+   "fish",
+   "bananas",
+   "meat"
+  ],
+  "answer": "bananas",
+  "explanation": "猴子（monkey）喜欢吃香蕉（bananas）。",
+  "knowledge_points": [
+   "动物单词",
+   "monkey",
+   "水果单词",
+   "banana"
+  ]
+ },
+ {
+  "id": "question-bank_00121",
+  "source": "thl529/question-bank",
+  "source_file": "一年级英语下册选择题题库.json",
+  "grade": "一年级",
+  "subject": "英语",
+  "volume": "下",
+  "chapter": "简单句型",
+  "topic": "简单句型",
+  "type": "选择题",
+  "difficulty": "中等",
+  "difficulty_weight": 0.55,
+  "difficulty_raw": "中等",
+  "question": "—Do you like apples? —____, I do.（  ）",
+  "options": [
+   "No",
+   "Yes",
+   "OK"
+  ],
+  "answer": "Yes",
+  "explanation": "回答中有 I do，说明是肯定回答，所以前面用 Yes。Yes, I do.（是的，我喜欢。）",
+  "knowledge_points": [
+   "一般疑问句",
+   "Yes/No回答"
+  ]
+ },
+ {
+  "id": "question-bank_00122",
+  "source": "thl529/question-bank",
+  "source_file": "一年级英语下册选择题题库.json",
+  "grade": "一年级",
+  "subject": "英语",
+  "volume": "下",
+  "chapter": "数字",
+  "topic": "数字",
+  "type": "选择题",
+  "difficulty": "基础",
+  "difficulty_weight": 0.3,
+  "difficulty_raw": "基础",
+  "question": "three 表示数字几？（  ）",
+  "options": [
+   "3",
+   "4",
+   "6"
+  ],
+  "answer": "3",
+  "explanation": "three 是数字3的英语。",
+  "knowledge_points": [
+   "数字单词",
+   "three"
+  ]
+ },
+ {
+  "id": "question-bank_00123",
+  "source": "thl529/question-bank",
+  "source_file": "一年级英语下册选择题题库.json",
+  "grade": "一年级",
+  "subject": "英语",
+  "volume": "下",
+  "chapter": "数字",
+  "topic": "数字",
+  "type": "选择题",
+  "difficulty": "基础",
+  "difficulty_weight": 0.3,
+  "difficulty_raw": "基础",
+  "question": "数字10用英语怎么说？（  ）",
+  "options": [
+   "nine",
+   "ten",
+   "eight"
+  ],
+  "answer": "ten",
+  "explanation": "数字10的英语是 ten。nine 是9，eight 是8。",
+  "knowledge_points": [
+   "数字单词",
+   "ten"
+  ]
+ },
+ {
+  "id": "question-bank_00124",
+  "source": "thl529/question-bank",
+  "source_file": "一年级英语下册选择题题库.json",
+  "grade": "一年级",
+  "subject": "英语",
+  "volume": "下",
+  "chapter": "数字",
+  "topic": "数字",
+  "type": "选择题",
+  "difficulty": "中等",
+  "difficulty_weight": 0.55,
+  "difficulty_raw": "中等",
+  "question": "two + three = （  ）",
+  "options": [
+   "four",
+   "five",
+   "six"
+  ],
+  "answer": "five",
+  "explanation": "two（2）+ three（3）= five（5）。",
+  "knowledge_points": [
+   "数字单词",
+   "简单加法"
+  ]
+ },
+ {
+  "id": "question-bank_00125",
+  "source": "thl529/question-bank",
+  "source_file": "一年级英语下册选择题题库.json",
+  "grade": "一年级",
+  "subject": "英语",
+  "volume": "下",
+  "chapter": "数字",
+  "topic": "数字",
+  "type": "选择题",
+  "difficulty": "基础",
+  "difficulty_weight": 0.3,
+  "difficulty_raw": "基础",
+  "question": "seven 表示数字几？（  ）",
+  "options": [
+   "6",
+   "7",
+   "8"
+  ],
+  "answer": "7",
+  "explanation": "seven 是数字7的英语。six 是6，eight 是8。",
+  "knowledge_points": [
+   "数字单词",
+   "seven"
+  ]
+ },
+ {
+  "id": "question-bank_00126",
+  "source": "thl529/question-bank",
+  "source_file": "一年级英语下册选择题题库.json",
+  "grade": "一年级",
+  "subject": "英语",
+  "volume": "下",
+  "chapter": "简单句型",
+  "topic": "简单句型",
+  "type": "选择题",
+  "difficulty": "中等",
+  "difficulty_weight": 0.55,
+  "difficulty_raw": "中等",
+  "question": "I ____ a student.（  ）",
+  "options": [
+   "is",
+   "am",
+   "are"
+  ],
+  "answer": "am",
+  "explanation": "I（我）后面用 am。He/She 后面用 is，You/We/They 后面用 are。",
+  "knowledge_points": [
+   "be动词",
+   "am/is/are"
+  ]
+ },
+ {
+  "id": "question-bank_00127",
+  "source": "thl529/question-bank",
+  "source_file": "一年级英语下册选择题题库.json",
+  "grade": "一年级",
+  "subject": "英语",
+  "volume": "下",
+  "chapter": "简单句型",
+  "topic": "简单句型",
+  "type": "选择题",
+  "difficulty": "中等",
+  "difficulty_weight": 0.55,
+  "difficulty_raw": "中等",
+  "question": "—What colour is it? —It's ____.（  ）（它是红色的。）",
+  "options": [
+   "a red",
+   "red",
+   "reds"
+  ],
+  "answer": "red",
+  "explanation": "回答颜色时，直接说 It's red.，颜色词前面不加 a，也不加 s。",
+  "knowledge_points": [
+   "颜色表达",
+   "What colour"
+  ]
+ },
+ {
+  "id": "question-bank_00128",
+  "source": "thl529/question-bank",
+  "source_file": "一年级英语下册选择题题库.json",
+  "grade": "一年级",
+  "subject": "英语",
+  "volume": "下",
+  "chapter": "简单句型",
+  "topic": "简单句型",
+  "type": "选择题",
+  "difficulty": "基础",
+  "difficulty_weight": 0.3,
+  "difficulty_raw": "基础",
+  "question": "—How old are you? —I'm ____.（我六岁。）（  ）",
+  "options": [
+   "fine",
+   "six",
+   "a boy"
+  ],
+  "answer": "six",
+  "explanation": "How old are you? 是问\"你几岁了？\"，回答用具体的年龄数字，I'm six.（我六岁。）",
+  "knowledge_points": [
+   "年龄表达",
+   "How old"
+  ]
+ },
+ {
+  "id": "question-bank_00129",
+  "source": "thl529/question-bank",
+  "source_file": "一年级英语下册选择题题库.json",
+  "grade": "一年级",
+  "subject": "英语",
+  "volume": "下",
+  "chapter": "颜色",
+  "topic": "颜色",
+  "type": "选择题",
+  "difficulty": "中等",
+  "difficulty_weight": 0.55,
+  "difficulty_raw": "中等",
+  "question": "black and white 是什么颜色的组合？（  ）",
+  "options": [
+   "红色和白色",
+   "黑色和白色",
+   "蓝色和绿色"
+  ],
+  "answer": "黑色和白色",
+  "explanation": "black 是黑色，white 是白色，black and white 就是黑色和白色。",
+  "knowledge_points": [
+   "颜色单词",
+   "black",
+   "white"
+  ]
+ },
+ {
+  "id": "question-bank_00130",
+  "source": "thl529/question-bank",
+  "source_file": "一年级英语下册选择题题库.json",
+  "grade": "一年级",
+  "subject": "英语",
+  "volume": "下",
+  "chapter": "简单句型",
+  "topic": "简单句型",
+  "type": "选择题",
+  "difficulty": "中等",
+  "difficulty_weight": 0.55,
+  "difficulty_raw": "中等",
+  "question": "—What is it? —____ a dog.（  ）",
+  "options": [
+   "It's",
+   "I'm",
+   "You're"
+  ],
+  "answer": "It's",
+  "explanation": "What is it? 问的是\"它是什么？\"，回答用 It's（It is 的缩写）。It's a dog.（它是一只狗。）",
+  "knowledge_points": [
+   "What is it",
+   "It's句型"
+  ]
+ },
+ {
+  "id": "zhixing-tv-quiz_01415",
+  "source": "mastomato/zhixing-tv-quiz",
+  "source_file": "questions.json",
+  "grade": "一年级",
+  "subject": "英语",
+  "volume": "全",
+  "chapter": "综合练习",
+  "topic": "词汇",
+  "type": "选择题",
+  "difficulty": "基础",
+  "difficulty_weight": 0.25,
+  "difficulty_raw": "",
+  "question": "「水」对应的英文单词是？",
+  "options": [
+   "apple",
+   "water",
+   "banana",
+   "book"
+  ],
+  "answer": "water",
+  "explanation": "water ＝ 水",
+  "knowledge_points": []
+ },
+ {
+  "id": "zhixing-tv-quiz_01416",
+  "source": "mastomato/zhixing-tv-quiz",
+  "source_file": "questions.json",
+  "grade": "一年级",
+  "subject": "英语",
+  "volume": "全",
+  "chapter": "综合练习",
+  "topic": "词汇",
+  "type": "选择题",
+  "difficulty": "基础",
+  "difficulty_weight": 0.25,
+  "difficulty_raw": "",
+  "question": "单词 \"milk\" 的中文意思是？",
+  "options": [
+   "牛奶",
+   "书",
+   "香蕉",
+   "苹果"
+  ],
+  "answer": "牛奶",
+  "explanation": "milk ＝ 牛奶",
+  "knowledge_points": []
+ },
+ {
+  "id": "zhixing-tv-quiz_01417",
+  "source": "mastomato/zhixing-tv-quiz",
+  "source_file": "questions.json",
+  "grade": "一年级",
+  "subject": "英语",
+  "volume": "全",
+  "chapter": "综合练习",
+  "topic": "句型与语法",
+  "type": "选择题",
+  "difficulty": "基础",
+  "difficulty_weight": 0.25,
+  "difficulty_raw": "",
+  "question": "___ is your name?",
+  "options": [
+   "Who",
+   "What",
+   "When",
+   "Where"
+  ],
+  "answer": "What",
+  "explanation": "正确填「What」",
+  "knowledge_points": []
+ },
+ {
+  "id": "zhixing-tv-quiz_01418",
+  "source": "mastomato/zhixing-tv-quiz",
+  "source_file": "questions.json",
+  "grade": "一年级",
+  "subject": "英语",
+  "volume": "全",
+  "chapter": "综合练习",
+  "topic": "词汇",
+  "type": "选择题",
+  "difficulty": "基础",
+  "difficulty_weight": 0.25,
+  "difficulty_raw": "",
+  "question": "「朋友」对应的英文单词是？",
+  "options": [
+   "friend",
+   "banana",
+   "book",
+   "apple"
+  ],
+  "answer": "friend",
+  "explanation": "friend ＝ 朋友",
+  "knowledge_points": []
+ },
+ {
+  "id": "zhixing-tv-quiz_01419",
+  "source": "mastomato/zhixing-tv-quiz",
+  "source_file": "questions.json",
+  "grade": "一年级",
+  "subject": "英语",
+  "volume": "全",
+  "chapter": "综合练习",
+  "topic": "词汇",
+  "type": "选择题",
+  "difficulty": "基础",
+  "difficulty_weight": 0.25,
+  "difficulty_raw": "",
+  "question": "单词 \"red\" 的中文意思是？",
+  "options": [
+   "苹果",
+   "书",
+   "红色",
+   "香蕉"
+  ],
+  "answer": "红色",
+  "explanation": "red ＝ 红色",
+  "knowledge_points": []
+ },
+ {
+  "id": "zhixing-tv-quiz_01420",
+  "source": "mastomato/zhixing-tv-quiz",
+  "source_file": "questions.json",
+  "grade": "一年级",
+  "subject": "英语",
+  "volume": "全",
+  "chapter": "综合练习",
+  "topic": "句型与语法",
+  "type": "选择题",
+  "difficulty": "基础",
+  "difficulty_weight": 0.25,
+  "difficulty_raw": "",
+  "question": "___ you like apples? Yes, I do.",
+  "options": [
+   "Are",
+   "Do",
+   "Does",
+   "Is"
+  ],
+  "answer": "Do",
+  "explanation": "正确填「Do」",
+  "knowledge_points": []
+ },
+ {
+  "id": "zhixing-tv-quiz_01421",
+  "source": "mastomato/zhixing-tv-quiz",
+  "source_file": "questions.json",
+  "grade": "一年级",
+  "subject": "英语",
+  "volume": "全",
+  "chapter": "综合练习",
+  "topic": "词汇",
+  "type": "选择题",
+  "difficulty": "基础",
+  "difficulty_weight": 0.25,
+  "difficulty_raw": "",
+  "question": "「香蕉」对应的英文单词是？",
+  "options": [
+   "book",
+   "banana",
+   "apple",
+   "cat"
+  ],
+  "answer": "banana",
+  "explanation": "banana ＝ 香蕉",
+  "knowledge_points": []
+ },
+ {
+  "id": "zhixing-tv-quiz_01422",
+  "source": "mastomato/zhixing-tv-quiz",
+  "source_file": "questions.json",
+  "grade": "一年级",
+  "subject": "英语",
+  "volume": "全",
+  "chapter": "综合练习",
+  "topic": "词汇",
+  "type": "选择题",
+  "difficulty": "基础",
+  "difficulty_weight": 0.25,
+  "difficulty_raw": "",
+  "question": "单词 \"water\" 的中文意思是？",
+  "options": [
+   "水",
+   "苹果",
+   "香蕉",
+   "书"
+  ],
+  "answer": "水",
+  "explanation": "water ＝ 水",
+  "knowledge_points": []
+ },
+ {
+  "id": "zhixing-tv-quiz_01423",
+  "source": "mastomato/zhixing-tv-quiz",
+  "source_file": "questions.json",
+  "grade": "一年级",
+  "subject": "英语",
+  "volume": "全",
+  "chapter": "综合练习",
+  "topic": "句型与语法",
+  "type": "选择题",
+  "difficulty": "基础",
+  "difficulty_weight": 0.25,
+  "difficulty_raw": "",
+  "question": "They ___ playing football.",
+  "options": [
+   "be",
+   "are",
+   "is",
+   "am"
+  ],
+  "answer": "are",
+  "explanation": "正确填「are」",
+  "knowledge_points": []
+ },
+ {
+  "id": "zhixing-tv-quiz_01424",
+  "source": "mastomato/zhixing-tv-quiz",
+  "source_file": "questions.json",
+  "grade": "一年级",
+  "subject": "英语",
+  "volume": "全",
+  "chapter": "综合练习",
+  "topic": "词汇",
+  "type": "选择题",
+  "difficulty": "基础",
+  "difficulty_weight": 0.25,
+  "difficulty_raw": "",
+  "question": "「狗」对应的英文单词是？",
+  "options": [
+   "book",
+   "banana",
+   "apple",
+   "dog"
+  ],
+  "answer": "dog",
+  "explanation": "dog ＝ 狗",
+  "knowledge_points": []
+ },
+ {
+  "id": "zhixing-tv-quiz_01425",
+  "source": "mastomato/zhixing-tv-quiz",
+  "source_file": "questions.json",
+  "grade": "一年级",
+  "subject": "英语",
+  "volume": "全",
+  "chapter": "综合练习",
+  "topic": "词汇",
+  "type": "选择题",
+  "difficulty": "基础",
+  "difficulty_weight": 0.25,
+  "difficulty_raw": "",
+  "question": "单词 \"friend\" 的中文意思是？",
+  "options": [
+   "朋友",
+   "苹果",
+   "书",
+   "香蕉"
+  ],
+  "answer": "朋友",
+  "explanation": "friend ＝ 朋友",
+  "knowledge_points": []
+ },
+ {
+  "id": "zhixing-tv-quiz_01426",
+  "source": "mastomato/zhixing-tv-quiz",
+  "source_file": "questions.json",
+  "grade": "一年级",
+  "subject": "英语",
+  "volume": "全",
+  "chapter": "综合练习",
+  "topic": "句型与语法",
+  "type": "选择题",
+  "difficulty": "基础",
+  "difficulty_weight": 0.25,
+  "difficulty_raw": "",
+  "question": "There ___ some milk in the cup.",
+  "options": [
+   "are",
+   "be",
+   "am",
+   "is"
+  ],
+  "answer": "is",
+  "explanation": "正确填「is」",
+  "knowledge_points": []
+ },
+ {
+  "id": "zhixing-tv-quiz_01427",
+  "source": "mastomato/zhixing-tv-quiz",
+  "source_file": "questions.json",
+  "grade": "一年级",
+  "subject": "英语",
+  "volume": "全",
+  "chapter": "综合练习",
+  "topic": "词汇",
+  "type": "选择题",
+  "difficulty": "基础",
+  "difficulty_weight": 0.25,
+  "difficulty_raw": "",
+  "question": "「绿色」对应的英文单词是？",
+  "options": [
+   "green",
+   "banana",
+   "apple",
+   "book"
+  ],
+  "answer": "green",
+  "explanation": "green ＝ 绿色",
+  "knowledge_points": []
+ },
+ {
+  "id": "zhixing-tv-quiz_01428",
+  "source": "mastomato/zhixing-tv-quiz",
+  "source_file": "questions.json",
+  "grade": "一年级",
+  "subject": "英语",
+  "volume": "全",
+  "chapter": "综合练习",
+  "topic": "词汇",
+  "type": "选择题",
+  "difficulty": "基础",
+  "difficulty_weight": 0.25,
+  "difficulty_raw": "",
+  "question": "单词 \"banana\" 的中文意思是？",
+  "options": [
+   "苹果",
+   "书",
+   "香蕉",
+   "猫"
+  ],
+  "answer": "香蕉",
+  "explanation": "banana ＝ 香蕉",
+  "knowledge_points": []
+ },
+ {
+  "id": "zhixing-tv-quiz_01429",
+  "source": "mastomato/zhixing-tv-quiz",
+  "source_file": "questions.json",
+  "grade": "一年级",
+  "subject": "英语",
+  "volume": "全",
+  "chapter": "综合练习",
+  "topic": "句型与语法",
+  "type": "选择题",
+  "difficulty": "基础",
+  "difficulty_weight": 0.25,
+  "difficulty_raw": "",
+  "question": "I ___ from China.",
+  "options": [
+   "am",
+   "be",
+   "is",
+   "are"
+  ],
+  "answer": "am",
+  "explanation": "正确填「am」",
+  "knowledge_points": []
+ },
+ {
+  "id": "zhixing-tv-quiz_01430",
+  "source": "mastomato/zhixing-tv-quiz",
+  "source_file": "questions.json",
+  "grade": "一年级",
+  "subject": "英语",
+  "volume": "全",
+  "chapter": "综合练习",
+  "topic": "词汇",
+  "type": "选择题",
+  "difficulty": "基础",
+  "difficulty_weight": 0.25,
+  "difficulty_raw": "",
+  "question": "「橙子」对应的英文单词是？",
+  "options": [
+   "orange",
+   "book",
+   "banana",
+   "apple"
+  ],
+  "answer": "orange",
+  "explanation": "orange ＝ 橙子",
+  "knowledge_points": []
+ },
+ {
+  "id": "zhixing-tv-quiz_01431",
+  "source": "mastomato/zhixing-tv-quiz",
+  "source_file": "questions.json",
+  "grade": "一年级",
+  "subject": "英语",
+  "volume": "全",
+  "chapter": "综合练习",
+  "topic": "词汇",
+  "type": "选择题",
+  "difficulty": "基础",
+  "difficulty_weight": 0.25,
+  "difficulty_raw": "",
+  "question": "单词 \"dog\" 的中文意思是？",
+  "options": [
+   "香蕉",
+   "苹果",
+   "狗",
+   "书"
+  ],
+  "answer": "狗",
+  "explanation": "dog ＝ 狗",
+  "knowledge_points": []
+ },
+ {
+  "id": "zhixing-tv-quiz_01432",
+  "source": "mastomato/zhixing-tv-quiz",
+  "source_file": "questions.json",
+  "grade": "一年级",
+  "subject": "英语",
+  "volume": "全",
+  "chapter": "综合练习",
+  "topic": "句型与语法",
+  "type": "选择题",
+  "difficulty": "基础",
+  "difficulty_weight": 0.25,
+  "difficulty_raw": "",
+  "question": "___ do you go to school? By bus.",
+  "options": [
+   "What",
+   "How",
+   "Who",
+   "Where"
+  ],
+  "answer": "How",
+  "explanation": "正确填「How」",
+  "knowledge_points": []
+ },
+ {
+  "id": "zhixing-tv-quiz_01433",
+  "source": "mastomato/zhixing-tv-quiz",
+  "source_file": "questions.json",
+  "grade": "一年级",
+  "subject": "英语",
+  "volume": "全",
+  "chapter": "综合练习",
+  "topic": "词汇",
+  "type": "选择题",
+  "difficulty": "基础",
+  "difficulty_weight": 0.25,
+  "difficulty_raw": "",
+  "question": "「学校」对应的英文单词是？",
+  "options": [
+   "banana",
+   "apple",
+   "school",
+   "book"
+  ],
+  "answer": "school",
+  "explanation": "school ＝ 学校",
+  "knowledge_points": []
+ },
+ {
+  "id": "zhixing-tv-quiz_01434",
+  "source": "mastomato/zhixing-tv-quiz",
+  "source_file": "questions.json",
+  "grade": "一年级",
+  "subject": "英语",
+  "volume": "全",
+  "chapter": "综合练习",
+  "topic": "词汇",
+  "type": "选择题",
+  "difficulty": "基础",
+  "difficulty_weight": 0.25,
+  "difficulty_raw": "",
+  "question": "单词 \"green\" 的中文意思是？",
+  "options": [
+   "书",
+   "苹果",
+   "香蕉",
+   "绿色"
+  ],
+  "answer": "绿色",
+  "explanation": "green ＝ 绿色",
+  "knowledge_points": []
+ },
+ {
+  "id": "zhixing-tv-quiz_01435",
+  "source": "mastomato/zhixing-tv-quiz",
+  "source_file": "questions.json",
+  "grade": "一年级",
+  "subject": "英语",
+  "volume": "全",
+  "chapter": "综合练习",
+  "topic": "句型与语法",
+  "type": "选择题",
+  "difficulty": "基础",
+  "difficulty_weight": 0.25,
+  "difficulty_raw": "",
+  "question": "She ___ a student.",
+  "options": [
+   "is",
+   "are",
+   "am",
+   "be"
+  ],
+  "answer": "is",
+  "explanation": "正确填「is」",
+  "knowledge_points": []
+ },
+ {
+  "id": "zhixing-tv-quiz_01436",
+  "source": "mastomato/zhixing-tv-quiz",
+  "source_file": "questions.json",
+  "grade": "一年级",
+  "subject": "英语",
+  "volume": "全",
+  "chapter": "综合练习",
+  "topic": "词汇",
+  "type": "选择题",
+  "difficulty": "基础",
+  "difficulty_weight": 0.25,
+  "difficulty_raw": "",
+  "question": "「蓝色」对应的英文单词是？",
+  "options": [
+   "banana",
+   "apple",
+   "blue",
+   "book"
+  ],
+  "answer": "blue",
+  "explanation": "blue ＝ 蓝色",
+  "knowledge_points": []
+ },
+ {
+  "id": "zhixing-tv-quiz_01437",
+  "source": "mastomato/zhixing-tv-quiz",
+  "source_file": "questions.json",
+  "grade": "一年级",
+  "subject": "英语",
+  "volume": "全",
+  "chapter": "综合练习",
+  "topic": "词汇",
+  "type": "选择题",
+  "difficulty": "基础",
+  "difficulty_weight": 0.25,
+  "difficulty_raw": "",
+  "question": "单词 \"orange\" 的中文意思是？",
+  "options": [
+   "香蕉",
+   "苹果",
+   "书",
+   "橙子"
+  ],
+  "answer": "橙子",
+  "explanation": "orange ＝ 橙子",
+  "knowledge_points": []
+ },
+ {
+  "id": "zhixing-tv-quiz_01438",
+  "source": "mastomato/zhixing-tv-quiz",
+  "source_file": "questions.json",
+  "grade": "一年级",
+  "subject": "英语",
+  "volume": "全",
+  "chapter": "综合练习",
+  "topic": "句型与语法",
+  "type": "选择题",
+  "difficulty": "基础",
+  "difficulty_weight": 0.25,
+  "difficulty_raw": "",
+  "question": "___ is your name?",
+  "options": [
+   "Where",
+   "What",
+   "Who",
+   "When"
+  ],
+  "answer": "What",
+  "explanation": "正确填「What」",
+  "knowledge_points": []
+ },
+ {
+  "id": "zhixing-tv-quiz_01439",
+  "source": "mastomato/zhixing-tv-quiz",
+  "source_file": "questions.json",
+  "grade": "一年级",
+  "subject": "英语",
+  "volume": "全",
+  "chapter": "综合练习",
+  "topic": "词汇",
+  "type": "选择题",
+  "difficulty": "基础",
+  "difficulty_weight": 0.25,
+  "difficulty_raw": "",
+  "question": "「窗户」对应的英文单词是？",
+  "options": [
+   "apple",
+   "banana",
+   "book",
+   "window"
+  ],
+  "answer": "window",
+  "explanation": "window ＝ 窗户",
+  "knowledge_points": []
+ },
+ {
+  "id": "zhixing-tv-quiz_01440",
+  "source": "mastomato/zhixing-tv-quiz",
+  "source_file": "questions.json",
+  "grade": "一年级",
+  "subject": "英语",
+  "volume": "全",
+  "chapter": "综合练习",
+  "topic": "词汇",
+  "type": "选择题",
+  "difficulty": "基础",
+  "difficulty_weight": 0.25,
+  "difficulty_raw": "",
+  "question": "单词 \"school\" 的中文意思是？",
+  "options": [
+   "学校",
+   "苹果",
+   "香蕉",
+   "书"
+  ],
+  "answer": "学校",
+  "explanation": "school ＝ 学校",
+  "knowledge_points": []
+ },
+ {
+  "id": "zhixing-tv-quiz_01441",
+  "source": "mastomato/zhixing-tv-quiz",
+  "source_file": "questions.json",
+  "grade": "一年级",
+  "subject": "英语",
+  "volume": "全",
+  "chapter": "综合练习",
+  "topic": "词汇",
+  "type": "选择题",
+  "difficulty": "基础",
+  "difficulty_weight": 0.25,
+  "difficulty_raw": "",
+  "question": "「书」对应的英文单词是？",
+  "options": [
+   "banana",
+   "apple",
+   "book",
+   "cat"
+  ],
+  "answer": "book",
+  "explanation": "book ＝ 书",
+  "knowledge_points": []
+ },
+ {
+  "id": "zhixing-tv-quiz_01442",
+  "source": "mastomato/zhixing-tv-quiz",
+  "source_file": "questions.json",
+  "grade": "一年级",
+  "subject": "英语",
+  "volume": "全",
+  "chapter": "综合练习",
+  "topic": "词汇",
+  "type": "选择题",
+  "difficulty": "基础",
+  "difficulty_weight": 0.25,
+  "difficulty_raw": "",
+  "question": "单词 \"blue\" 的中文意思是？",
+  "options": [
+   "苹果",
+   "香蕉",
+   "蓝色",
+   "书"
+  ],
+  "answer": "蓝色",
+  "explanation": "blue ＝ 蓝色",
+  "knowledge_points": []
+ },
+ {
+  "id": "zhixing-tv-quiz_01443",
+  "source": "mastomato/zhixing-tv-quiz",
+  "source_file": "questions.json",
+  "grade": "一年级",
+  "subject": "英语",
+  "volume": "全",
+  "chapter": "综合练习",
+  "topic": "句型与语法",
+  "type": "选择题",
+  "difficulty": "基础",
+  "difficulty_weight": 0.25,
+  "difficulty_raw": "",
+  "question": "They ___ playing football.",
+  "options": [
+   "are",
+   "am",
+   "be",
+   "is"
+  ],
+  "answer": "are",
+  "explanation": "正确填「are」",
+  "knowledge_points": []
+ },
+ {
+  "id": "zhixing-tv-quiz_01444",
+  "source": "mastomato/zhixing-tv-quiz",
+  "source_file": "questions.json",
+  "grade": "一年级",
+  "subject": "英语",
+  "volume": "全",
+  "chapter": "综合练习",
+  "topic": "词汇",
+  "type": "选择题",
+  "difficulty": "基础",
+  "difficulty_weight": 0.25,
+  "difficulty_raw": "",
+  "question": "「鸡蛋」对应的英文单词是？",
+  "options": [
+   "egg",
+   "apple",
+   "banana",
+   "book"
+  ],
+  "answer": "egg",
+  "explanation": "egg ＝ 鸡蛋",
+  "knowledge_points": []
+ },
+ {
+  "id": "TvSafetyLock_04977",
+  "source": "zhubing3170/TvSafetyLock",
+  "source_file": "questions.json",
+  "grade": "一年级",
+  "subject": "英语",
+  "volume": "全",
+  "chapter": "",
+  "topic": "",
+  "type": "选择题",
+  "difficulty": "基础",
+  "difficulty_weight": 0.25,
+  "difficulty_raw": "",
+  "question": "“苹果”用英语怎么说？",
+  "options": [
+   "apple",
+   "banana",
+   "orange",
+   "pear"
+  ],
+  "answer": "apple",
+  "explanation": "",
+  "knowledge_points": []
+ },
+ {
+  "id": "TvSafetyLock_04978",
+  "source": "zhubing3170/TvSafetyLock",
+  "source_file": "questions.json",
+  "grade": "一年级",
+  "subject": "英语",
+  "volume": "全",
+  "chapter": "",
+  "topic": "",
+  "type": "选择题",
+  "difficulty": "基础",
+  "difficulty_weight": 0.25,
+  "difficulty_raw": "",
+  "question": "“cat”指的是哪种动物？",
+  "options": [
+   "猫",
+   "狗",
+   "兔子",
+   "鱼"
+  ],
+  "answer": "猫",
+  "explanation": "",
+  "knowledge_points": []
+ },
+ {
+  "id": "TvSafetyLock_04979",
+  "source": "zhubing3170/TvSafetyLock",
+  "source_file": "questions.json",
+  "grade": "一年级",
+  "subject": "英语",
+  "volume": "全",
+  "chapter": "",
+  "topic": "",
+  "type": "选择题",
+  "difficulty": "基础",
+  "difficulty_weight": 0.25,
+  "difficulty_raw": "",
+  "question": "“红色”用英语怎么说？",
+  "options": [
+   "red",
+   "blue",
+   "green",
+   "yellow"
+  ],
+  "answer": "red",
+  "explanation": "",
+  "knowledge_points": []
+ },
+ {
+  "id": "TvSafetyLock_04980",
+  "source": "zhubing3170/TvSafetyLock",
+  "source_file": "questions.json",
+  "grade": "一年级",
+  "subject": "英语",
+  "volume": "全",
+  "chapter": "",
+  "topic": "",
+  "type": "选择题",
+  "difficulty": "基础",
+  "difficulty_weight": 0.25,
+  "difficulty_raw": "",
+  "question": "“one”是数字几？",
+  "options": [
+   "1",
+   "2",
+   "3",
+   "4"
+  ],
+  "answer": "1",
+  "explanation": "",
+  "knowledge_points": []
+ },
+ {
+  "id": "TvSafetyLock_04981",
+  "source": "zhubing3170/TvSafetyLock",
+  "source_file": "questions.json",
+  "grade": "一年级",
+  "subject": "英语",
+  "volume": "全",
+  "chapter": "",
+  "topic": "",
+  "type": "选择题",
+  "difficulty": "基础",
+  "difficulty_weight": 0.25,
+  "difficulty_raw": "",
+  "question": "“Hello”是什么意思？",
+  "options": [
+   "你好",
+   "再见",
+   "谢谢",
+   "对不起"
+  ],
+  "answer": "你好",
+  "explanation": "",
+  "knowledge_points": []
+ },
+ {
+  "id": "TvSafetyLock_04982",
+  "source": "zhubing3170/TvSafetyLock",
+  "source_file": "questions.json",
+  "grade": "一年级",
+  "subject": "英语",
+  "volume": "全",
+  "chapter": "",
+  "topic": "",
+  "type": "选择题",
+  "difficulty": "基础",
+  "difficulty_weight": 0.25,
+  "difficulty_raw": "",
+  "question": "“dog”指的是哪种动物？",
+  "options": [
+   "狗",
+   "猫",
+   "鸟",
+   "猪"
+  ],
+  "answer": "狗",
+  "explanation": "",
+  "knowledge_points": []
+ },
+ {
+  "id": "TvSafetyLock_04983",
+  "source": "zhubing3170/TvSafetyLock",
+  "source_file": "questions.json",
+  "grade": "一年级",
+  "subject": "英语",
+  "volume": "全",
+  "chapter": "",
+  "topic": "",
+  "type": "选择题",
+  "difficulty": "基础",
+  "difficulty_weight": 0.25,
+  "difficulty_raw": "",
+  "question": "“蓝色”用英语怎么说？",
+  "options": [
+   "blue",
+   "red",
+   "black",
+   "white"
+  ],
+  "answer": "blue",
+  "explanation": "",
+  "knowledge_points": []
+ },
+ {
+  "id": "TvSafetyLock_04984",
+  "source": "zhubing3170/TvSafetyLock",
+  "source_file": "questions.json",
+  "grade": "一年级",
+  "subject": "英语",
+  "volume": "全",
+  "chapter": "",
+  "topic": "",
+  "type": "选择题",
+  "difficulty": "基础",
+  "difficulty_weight": 0.25,
+  "difficulty_raw": "",
+  "question": "“book”是什么意思？",
+  "options": [
+   "书",
+   "笔",
+   "桌子",
+   "椅子"
+  ],
+  "answer": "书",
+  "explanation": "",
+  "knowledge_points": []
+ }
+]

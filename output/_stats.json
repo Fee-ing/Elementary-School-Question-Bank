@@ -1,0 +1,35 @@
+{
+ "grade": {
+  "一年级": 6078,
+  "三年级": 17187,
+  "二年级": 6462,
+  "五年级": 9823,
+  "六年级": 7704,
+  "四年级": 9684,
+  "跨年级": 10270
+ },
+ "source": {
+  "thl529/question-bank": 1354,
+  "mastomato/zhixing-tv-quiz": 3574,
+  "zhubing3170/TvSafetyLock": 96,
+  "xiaoyang111222/cn-math-taxonomy": 5736,
+  "Aden357-234/quiz-practice": 270,
+  "cy-0754/tiku-studio": 90,
+  "dezhiguan/quizmate": 5,
+  "h517061544/test": 7020,
+  "r4c4gzpzyh-gif/six-science-quiz": 1116,
+  "holidaysss/Calculator": 10000,
+  "congcong-school": 34213,
+  "xianning-teaching-resources": 3734
+ },
+ "type": {
+  "选择题": 29837,
+  "计算题": 16184,
+  "判断题": 8070,
+  "连线题": 383,
+  "填空题": 12494,
+  "其他": 239,
+  "简答题": 1
+ },
+ "total": 67208
+}
