@@ -600,7 +600,10 @@ def parse_xianning():
         base = os.path.basename(f)
         grade = next((g for g in XN_GRADES if base.startswith(g)), None)
         if not grade:
-            continue   # 仅解析已识别的学段（小学/初中/高中）
+            continue   # 跳过无法识别年级的文件
+        # 仅纳入小学阶段（1-6年级）；初中/高中（7-12年级）不入库
+        if norm_grade_num(grade) > 6:
+            continue
         rest = base[len(grade):]; subject = rest.split("_")[0]
         subject = "道法" if ("道德与法治" in subject or "思想政治" in subject) else norm_subject(subject)
         html = open(f, encoding="utf-8").read()

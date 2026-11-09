@@ -36,7 +36,7 @@
 
 > 重复/跳过：`meikis/cn-math-taxonomy` 是 `xiaoyang111222` 的近似子集（相同 `cnm_/cne_/cns_` 题号），为避免重复已跳过；`sijie-yin/pure-math-taxonomy`（旧版数学 864 题）已被 `xiaoyang111222` 的小学数学（1,136 题）覆盖，解析时不再单独计入。`mengxiaoyucc/MidAnswer`、`CC-1368/primary-school-math-bank` 等为答题/组卷**应用框架**，仓库内无原始数据；`superorcz/math-question-bank`、`cbicbicn/xxsjs` 为空仓库。
 >
-> 扩展检索中已并入的两个资源：`wuwangzhang1216/congcong-school`（题库以 GitHub Release 压缩包 `data.zip` 分发，已下载并解析，含 85 个教材分册、显式难度 1–5）；`chenzhuanxin/xianning-teaching-resources`（385 套期末真题，已稀疏克隆仅取 HTML 试卷，结构化解析 140 套小学卷的题干/选项/答案/解析）。
+> 扩展检索中已并入的两个资源：`wuwangzhang1216/congcong-school`（题库以 GitHub Release 压缩包 `data.zip` 分发，已下载并解析，含 85 个教材分册、显式难度 1–5）；`chenzhuanxin/xianning-teaching-resources`（385 套期末真题，已稀疏克隆仅取 HTML 试卷，结构化解析 140 套小学卷的题干/选项/答案/解析；其余 245 套初中/高中按「只做小学」约束未入库）。
 
 ## 3. 统一数据格式（Schema）
 
@@ -86,8 +86,10 @@
 │   ├── 小学题库_统一格式.csv        # UTF-8-BOM，可直接导入 MySQL/Postgres/Excel
 │   ├── 小学题库.db                  # 已建好的 SQLite 数据库（表 questions）
 │   ├── 语文素材_诗词生字词语.json    # jacksonrick 课内素材（非问答）
-│   └── _stats.json                  # 统计信息
+│   ├── _stats.json                  # 统计信息
+│   └── 组卷样例/                     # smart_paper.py 生成的样例试卷/答案
 ├── build_dataset.py           # 归一化脚本（可复现）
+├── smart_paper.py             # 智能组卷脚本（基于 difficulty_weight）
 └── README.md
 ```
 
@@ -138,11 +140,38 @@ COPY questions FROM '/path/小学题库_统一格式.csv' WITH (FORMAT csv, HEAD
 - **答案已解析为文本**：选择题答案由原字母/下标解析为选项文本，便于直接入库。
 - **许可证**：各源仓库许可证不同（多为 MIT / 未声明），商用或二次分发前请逐一确认各仓库 LICENSE。
 - **非问答素材**：`jacksonrick` 的诗词/生字/词语为课内语文素材，未计入问答题库，单独存放于 `output/语文素材_诗词生字词语.json`。
-- **congcong-school（AI 生成，需教师复审）**：该库题目与课文由 AI 生成，README 明确说明仍在接受教师复审，偶有可能表述不清或答案有争议；部分题型（如语文「部首查字法」）源数据 `type` 标为 `calculation`，已按源归一为「计算题」，介意可后续人工校正。难度为显式 1–5 级，已映射为权重。
-- **xianning 期末真题（真题卷，含解析）**：140 套小学卷均带参考答案与解析，题型归一为选择题/判断题/填空题（原卷的填空/计算/解答/应用题统一归入填空题以便检索，原始题型可据题干与 `chapter` 判断）。英语卷中阅读判断（T/F）答案已统一规范为「对/错」。少数英语卷答案页比题页多 4 条（阅读判断题的子项），已按题序对齐、丢弃尾随孤儿答案（共 40 条），不影响题目完整性。
+- **congcong-school（AI 生成，需教师复审）**：该库题目与课文由 AI 生成，README 明确说明仍在接受教师复审，偶有可能表述不清或答案有争议；难度为显式 1–5 级，已映射为权重。**语文「部首查字法 / 填一个数字」类题目源数据 `type` 误标为 `calculation`，已人工校正为「填空题」**（共 9 题，规则见 `build_dataset.py`：`语文 且 type=calculation → 填空题`）。
+- **xianning 期末真题（真题卷，含解析）**：140 套小学卷均带参考答案与解析，题型归一为选择题/判断题/填空题（原卷的填空/计算/解答/应用题统一归入填空题以便检索，原始题型可据题干与 `chapter` 判断）。英语卷中阅读判断（T/F）答案已统一规范为「对/错」。少数英语卷答案页比题页多 4 条（阅读判断题的子项），已按题序对齐、丢弃尾随孤儿答案（共 40 条），不影响题目完整性。（注：仓库实际含 385 套全学段试卷，其中 245 套为初中/高中；按「只做小学阶段」约束，本次仅解析入库 140 套小学卷，初中/高中未纳入。Word_PDF 版资源本地未克隆，故未解析。）
 - **congcong 版本去重**：同一知识点在 `2026 课标修订版`/`旧版`/`五四制`/`精通版`等多套教材分册中重复出现，已按「年级+学科+题干+答案」全局去重（跳过 47 条完全重复）。
 
-## 8. 复现
+## 8. 智能组卷脚本（`smart_paper.py`）
+
+基于每题的 `difficulty_weight` 难度权重，从题库自动抽题组卷。**仅处理小学（1–6 年级）**，自动过滤初中/高中记录。
+
+两种难度策略（任意选一）：
+
+- **难度带配比（默认）**：`--band-ratio 3:5:2` 指定 基础:中等:提高 的题目数量比例；
+- **目标平均分**：`--target-weight 0.55` 使整卷 realized 平均难度权重尽量贴近目标值，并**强制基础/提高两带都出现**，避免难度单一。
+
+用法示例：
+
+```bash
+# 三年级数学，难度带配比 3:5:2（小学默认）
+python3 smart_paper.py --grade 三年级 --subject 数学 --total 20
+
+# 六年级语文，偏难配比 2:5:3
+python3 smart_paper.py --grade 六年级 --subject 语文 --total 25 --band-ratio 2:5:3
+
+# 四年级英语，目标平均分 w≈0.50
+python3 smart_paper.py --grade 四年级 --subject 英语 --total 18 --target-weight 0.50 --seed 7
+
+# 跨年级科学，忽略单年级限制
+python3 smart_paper.py --grade 跨年级 --subject 科学 --total 30 --all-grades
+```
+
+输出：`output/组卷样例/<年级>_<学科>_试卷.md`（仅题干+选项，不含答案）与 `..._答案.md`（答案+解析+难度标签），控制台同时打印难度带分布与平均权重校验。
+
+## 9. 复现
 
 ```bash
 # 重新执行归一化（读取 _sources/，生成 data/ 与 output/）
